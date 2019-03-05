@@ -42,4 +42,5 @@ div {
 p.indiv {
   font-size: 2em;
   color: red;
+  display:inline;
 }
